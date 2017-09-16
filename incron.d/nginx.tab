@@ -1,0 +1,1 @@
+/etc/nginx/sites-enabled IN_CREATE,IN_MODIFY,IN_DELETE,IN_MOVE,IN_CLOSE nginx -s reload
